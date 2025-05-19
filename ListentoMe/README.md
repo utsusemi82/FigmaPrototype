@@ -1,9 +1,9 @@
 # 📚 Listen to Me: Audiobook Library UI – Figma Prototype for Visually Impaired Users
 
-This repository features the Figma prototype for a *web-based audiobook library* designed to support visually impaired users. Developed as part of a team project, this prototype emphasizes accessibility, simplicity, and usability.
+This repository features the Figma prototype for a *web-based audiobook library* designed to support visually impaired users. Developed as part of a team (Team 5G) project, this prototype emphasizes accessibility, simplicity, and usability.
 
 - 🏅 *Bronze Award Winner* — Software Engineering Innovation Day 2023  
-- 👤 Team Lead & Designer: Jay (GitHub: utsusemi82)  
+- 👤 Team Lead & Designer: Jay (GitHub: utsusemi82) 
 - 🎯 Aligned with Sustainable Development Goal (SDG) 4: Quality Education  
 - 📅 Designed in: Nov 2022 - Jan 2023  
 - 🔗 [View Figma Prototype](https://www.figma.com/proto/0R0AJrmu3hQx0syp9MQt9A/Project-Management?node-id=256-357&starting-point-node-id=124%3A494)
