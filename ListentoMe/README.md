@@ -12,7 +12,7 @@ This repository features the Figma prototype for a *web-based audiobook library*
 
 ## 🧠 Project Background
 
-The goal of this project was to create an accessible, intuitive audiobook platform for users with visual impairments. It was developed as part of a software engineering course project and later presented at the *Software Engineering Innovation Day 2023*, where it won the**Bronze Award**.
+The goal of this project was to create an accessible, intuitive audiobook platform for users with visual impairments. It was developed as part of a software engineering course project and later presented at the *Software Engineering Innovation Day 2023*, where it won the **Bronze Award**.
 
 ---
 
