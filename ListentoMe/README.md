@@ -20,6 +20,8 @@ The goal of this project was to create an accessible, intuitive audiobook platfo
 
 This project contributes to *SDG 4: Ensure inclusive and equitable quality education* , by addressing the educational and entertainment needs of visually impaired individuals.
 
+![image](https://github.com/user-attachments/assets/880f8147-cb3a-4e46-9fa6-5ed6c5355667)
+
 ---
 
 ## 💡 Key Contributions
